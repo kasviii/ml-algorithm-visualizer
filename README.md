@@ -1,6 +1,6 @@
 # ML Algorithm Visualizer
 
-An interactive, browser-based tool to visualize core Machine Learning algorithms step by step — built as a course project for CSE3201: Machine Learning, Manipal University Jaipur.
+An interactive, browser-based tool to visualize core Machine Learning algorithms step by step.
 
 ## Live Demo
 [https://kasviii.github.io/ml-algorithm-visualizer](https://kasviii.github.io/ml-algorithm-visualizer)
@@ -32,8 +32,3 @@ An interactive, browser-based tool to visualize core Machine Learning algorithms
 - Canvas API for rendering
 - Deployed via GitHub Pages
 
-## Course Details
-- Course: CSE3201 — Machine Learning
-- Program: B.Tech CSE, Semester VI
-- Institution: Manipal University Jaipur
-- Session: Jan–May 2026
